@@ -1,1 +1,0 @@
-<img src="report.png" style="width: 400px">
